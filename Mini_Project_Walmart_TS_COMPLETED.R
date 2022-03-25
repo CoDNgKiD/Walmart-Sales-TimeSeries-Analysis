@@ -29,7 +29,7 @@ library(reshape2)
 
 
 
-setwd("C:/Users/Quinn/Desktop/Predictive Analytics/Projects/Mini Projects/Mini Project 1")
+setwd("C:/Users/Desktop/Predictive Analytics/Projects/Mini Projects/Mini Project 1")
 
 store.data <- read_csv("stores.csv")
 features.data <- read_csv("features.csv")
